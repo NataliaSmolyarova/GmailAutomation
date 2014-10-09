@@ -1,0 +1,4 @@
+GmailAutomation
+===============
+
+First automation project
